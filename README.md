@@ -157,7 +157,7 @@
 3. TeacherList를 선택한다.
 4. TeacherList data를 입력한다.
 
-#TC28
+#TC28 - Manage Director
 1. 로그인 화면에서 director 역할을 선택한다.
 2. Director를 선택한다.
 3. Manage Director를 선택한다.
