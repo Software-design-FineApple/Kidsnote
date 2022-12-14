@@ -27,7 +27,7 @@ def ui_director(system):
     elif n == 6:
         ui_ManageKindergarten(system)
     else :
-        ui_Director(system)
+        ui_D(system)
 
 
 def ui_ManageChildren(system):
@@ -104,12 +104,12 @@ def ui_ManageKindergarten(system):
     else:
         pass
 
-def ui_Director(system):
+def ui_D(system):
     system = system
     os.system('clear')
     print_list('Change Kindergarten Name', 'TeacherList', 'Manage Director')
     n = int(sys.stdin.readline())
-    elif n == 1:
+    if n == 1:
         system.director.manageKindergartenName()
     elif n == 2:
         system.director.manageTeacherList()
