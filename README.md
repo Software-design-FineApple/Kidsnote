@@ -1,6 +1,10 @@
 # Kidsnote
 처음 실행시 원래 로그인 시스템에서 타겟 시스템에 로그인 정보를 줘야하지만, 임시로 유저 역할을 정한다.
 
+How to Execute
+1. skeleton 폴더의 내용물을 다운받는다.
+2. main_Kidsnote.py 파일을 실행한다.
+
 #TC01 - View Album
 1. 로그인 화면에서 아무 역할을 선택한다.
 2. ManageChildren 항목을 선택한다.
